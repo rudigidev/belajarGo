@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "login"
 
 func main() {
-	fmt.Println("Login Page");
+	Login.Println("Login Page");
 }
