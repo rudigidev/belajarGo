@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "register"
 
 func main() {
-	fmt.Println("Register");
+	register.Println("Register");
 }
